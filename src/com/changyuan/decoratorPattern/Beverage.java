@@ -1,4 +1,4 @@
-package com.changyuan.coffeeDemo;
+package com.changyuan.decoratorPattern;
 
 public abstract class Beverage {
     String description = "Unknown Beverage";

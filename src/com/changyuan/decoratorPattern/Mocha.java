@@ -1,4 +1,4 @@
-package com.changyuan.coffeeDemo;
+package com.changyuan.decoratorPattern;
 
 public class Mocha extends CondimentDecorator {
     Beverage beverage;

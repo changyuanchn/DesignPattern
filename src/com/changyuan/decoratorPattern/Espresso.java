@@ -1,4 +1,4 @@
-package com.changyuan.coffeeDemo;
+package com.changyuan.decoratorPattern;
 
 public class Espresso extends Beverage {
     public Espresso() {

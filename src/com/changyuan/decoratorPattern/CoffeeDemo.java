@@ -1,4 +1,4 @@
-package com.changyuan.coffeeDemo;
+package com.changyuan.decoratorPattern;
 
 public class CoffeeDemo {
     public static void main(String args[]) {

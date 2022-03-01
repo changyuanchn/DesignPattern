@@ -1,12 +1,12 @@
-package com.changyuan.coffeeDemo;
+package com.changyuan.decoratorPattern;
 
-public class Grande extends SizeDecorator {
+public class Whip extends CondimentDecorator {
     Beverage beverage;
-    public Grande(Beverage beverage) {
+    public Whip(Beverage beverage) {
         this.beverage = beverage;
     }
     public String getDescription() {
-        return beverage.getDescription() + ", grande";
+        return beverage.getDescription() + ", Whip";
     }
 
     @Override
