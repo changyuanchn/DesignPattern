@@ -1,4 +1,4 @@
-package com.changyuan.duckDemo;
+package com.changyuan.strategyPattern;
 
 abstract class Duck{
     FlyBehavior flyBehavior;

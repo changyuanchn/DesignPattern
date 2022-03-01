@@ -1,4 +1,4 @@
-package com.changyuan.duckDemo;
+package com.changyuan.strategyPattern;
 
 public class FlyWithWings implements FlyBehavior{
     public void fly() {

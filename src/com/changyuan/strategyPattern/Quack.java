@@ -1,4 +1,4 @@
-package com.changyuan.duckDemo;
+package com.changyuan.strategyPattern;
 
 public class Quack implements QuackBehavior{
     public void quack() {
