@@ -1,4 +1,4 @@
-package com.changyuan.weatherDemo;
+package com.changyuan.observerPattern;
 
 import java.util.ArrayList;
 

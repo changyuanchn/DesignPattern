@@ -1,4 +1,4 @@
-package com.changyuan.weatherDemo;
+package com.changyuan.observerPattern;
 
 public interface DisplayElement {
     public void display();

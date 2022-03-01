@@ -1,4 +1,4 @@
-package com.changyuan.weatherDemo;
+package com.changyuan.observerPattern;
 
 public class CurrentConditionDisplay implements Observer, DisplayElement {
     private float temperature;

@@ -1,4 +1,4 @@
-package com.changyuan.weatherDemo;
+package com.changyuan.observerPattern;
 
 public class WeatherDataDemo {
     public static void main(String[] args) {
