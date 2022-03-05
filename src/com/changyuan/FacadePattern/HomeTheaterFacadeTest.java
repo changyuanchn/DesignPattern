@@ -1,8 +1,8 @@
-package com.changyuan.facadeDemo;
+package com.changyuan.FacadePattern;
 
-import com.changyuan.facadeDemo.components.Amplifirer;
-import com.changyuan.facadeDemo.components.DvdPlayer;
-import com.changyuan.facadeDemo.components.Tuner;
+import com.changyuan.FacadePattern.components.Amplifirer;
+import com.changyuan.FacadePattern.components.DvdPlayer;
+import com.changyuan.FacadePattern.components.Tuner;
 
 public class HomeTheaterFacadeTest {
     public static void main(String[] args) {

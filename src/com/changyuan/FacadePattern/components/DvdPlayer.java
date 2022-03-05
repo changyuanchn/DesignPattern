@@ -1,4 +1,4 @@
-package com.changyuan.facadeDemo.components;
+package com.changyuan.FacadePattern.components;
 
 public class DvdPlayer {
     public void on() {
