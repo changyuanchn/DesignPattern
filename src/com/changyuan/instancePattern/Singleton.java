@@ -1,4 +1,4 @@
-package com.changyuan.instanceDemo;
+package com.changyuan.instancePattern;
 
 public class Singleton {
     private volatile static Singleton uniqueInstance;
